@@ -1,5 +1,5 @@
 ---
-title: Chapter Committees
+title: ChapterCommittees
 displaytext: Chapter Committees
 layout: null
 tab: true
