@@ -19,7 +19,7 @@ Our Chapter Meeting committee is responsible for cultivating venues and speakers
 * Ian Melvin
 
 ### Opportunities
-If you are interested in speaking at a chapter meeting, having your company host one of our meetings, or helping out with this committee please email [chapter-meetings](mailto://chapter-meetings@pdxowasp.org).
+If you are interested in speaking at a chapter meeting, having your company host one of our meetings, or helping out with this committee please email [chapter-meetings@pdxowasp.org](mailto://chapter-meetings@pdxowasp.org).
 
 ## Training Day
 
