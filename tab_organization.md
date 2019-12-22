@@ -1,6 +1,6 @@
 ---
 title: Organization
-displaytext: Organization
+displaytext: Committees
 layout: null
 tab: true
 order: 2
