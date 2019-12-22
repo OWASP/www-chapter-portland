@@ -4,7 +4,7 @@ displaytext: Chapter Committees
 layout: null
 tab: true
 order: 1
-tags: committees
+tags: 
 ---
 
 # Our Committees
