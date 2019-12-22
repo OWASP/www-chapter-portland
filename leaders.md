@@ -14,7 +14,7 @@
 #### Training Day Chair
 * Katie Feucht
 
-#### Membership and Community Outreach Chair
+#### Membership and Outreach Chair
 * John Whiteman
 
 #### Study Night Chair
