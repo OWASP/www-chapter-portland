@@ -1,6 +1,6 @@
 ---
 title: Recordings
-displaytext: Recordings
+displaytext: Podcasts
 layout: null
 tab: true
 order: 2
