@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Portland
-tags: chapter-committees
+tags: committees
 level: 0
 
 region: United States
