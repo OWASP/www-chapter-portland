@@ -3,7 +3,7 @@ title: Organization
 displaytext: Committees
 layout: null
 tab: true
-order: 2
+order: 9
 tags: committees
 ---
 
