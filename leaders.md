@@ -6,7 +6,7 @@
 * [David Quisenberry](mailto://david.quisenberry@owasp.org)
 
 #### Past President
-* [Ian Melvin](mailto://ian.melvin@owasp.org
+* [Ian Melvin](mailto://ian.melvin@owasp.org)
 
 #### Chapter Meeting Chair
 * Kendra Ash
