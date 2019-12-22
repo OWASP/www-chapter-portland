@@ -3,7 +3,7 @@ title: Training
 displaytext: Training Day
 layout: null
 tab: true
-order: 2
+order: 3
 tags: training
 ---
 
