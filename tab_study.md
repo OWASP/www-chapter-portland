@@ -1,10 +1,10 @@
 ---
-title: StudyNights
+title: Study
 displaytext: Study
 layout: null
 tab: true
 order: 4
-tags: study-nights
+tags: study
 ---
 
 ## Study Nights
