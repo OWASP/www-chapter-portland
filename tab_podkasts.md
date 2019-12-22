@@ -1,6 +1,6 @@
 ---
-title: Podcast
-displaytext: Podcast
+title: Podkast
+displaytext: Podkast
 layout: null
 tab: true
 order: 2
