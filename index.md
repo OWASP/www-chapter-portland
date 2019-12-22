@@ -27,6 +27,11 @@ Please change these items to indicate the actual information you wish to present
 
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
+
+## Welcome
+
+This is the website of the Portland, Oregon OWASP Chapter.
+
 ```
 ## Welcome
 Include some information here about your chapter
