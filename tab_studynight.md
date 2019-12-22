@@ -1,6 +1,6 @@
 ---
 title: StudyNights
-displaytext: Study Nights
+displaytext: Study
 layout: null
 tab: true
 order: 4
