@@ -11,6 +11,9 @@ auto-migrated: 1
 
 ---
 
+## Welcome
+
+This is the website of the Portland, Oregon OWASP Chapter.
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
@@ -28,9 +31,6 @@ Please change these items to indicate the actual information you wish to present
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
 
-## Welcome
-
-This is the website of the Portland, Oregon OWASP Chapter.
 
 ```
 ## Welcome
