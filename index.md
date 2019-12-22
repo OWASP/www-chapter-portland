@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Portland
-tags: community, mentorship
+tags: community, mentorship, governance, study-night, training-day
 level: 0
 region: United States
 
