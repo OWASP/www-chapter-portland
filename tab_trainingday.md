@@ -1,6 +1,6 @@
 ---
 title: TrainingDay
-displaytext: Training Days 
+displaytext: Training 
 layout: null
 tab: true
 order: 2
