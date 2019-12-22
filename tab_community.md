@@ -3,7 +3,7 @@ title: Community
 displaytext: Community
 layout: null
 tab: true
-order: 3
+order: 7
 tags: community
 ---
 
