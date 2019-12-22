@@ -1,5 +1,5 @@
 ---
-title: Training Day
+title: TrainingDay
 displaytext: Training Days 
 layout: null
 tab: true
