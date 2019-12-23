@@ -15,7 +15,7 @@ All of our podcasts can be found [here](https://www.buzzsprout.com/775379).
 
 [Adam Shostack - Threat Modeling](https://www.buzzsprout.com/775379/2316740-adam-shostack-threat-modeling)
 
-[David Quisenberry & Ben Pirkl - OWASP TOp 10 / Juice Shop Hack Session](https://www.buzzsprout.com/775379/2316719-david-quisenberry-ben-pirkl-owasp-top-10-juice-shop-hack-session)
+[David Quisenberry & Ben Pirkl - OWASP Top 10 / Juice Shop Hack Session](https://www.buzzsprout.com/775379/2316719-david-quisenberry-ben-pirkl-owasp-top-10-juice-shop-hack-session)
 
 [Alex Ivkin - Container Security](https://www.buzzsprout.com/775379/2316707-alex-ivkin-container-security)
 
