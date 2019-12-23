@@ -15,6 +15,18 @@ Here you will find documents related to the governance of our chapter.
 
 | Month | Agenda | Minutes |
 | ----- | ------ | ------- |
+| January | | |
+| February | | |
+| March | | |
+| April | | |
+| May | | |
+| June | | |
+| July | | |
+| August | | |
+| September | | |
+| October | | |
+| November | | |
+| December | | |
 
 ## 2019
 
