@@ -32,6 +32,9 @@ The Training Day committee organizes the venue, trainers, volunteers, participan
 * Bhushan Gupta
 * Philip Jenkins
 * Jeff Bryner
+* Derek Hill
+* Benny Zhao
+* Ivan Sidorchuk
 
 ### Opportunities
 If you are interested in leading a session at our training day, being a company sponsor, volunteering at the training day, or serving on this committee reach out to [training-day@pdxowasp.org](mailto://training-day@pdxowasp.org).
@@ -72,6 +75,8 @@ The Mentorship committee helps match mentor and mentee pairs, recruit people to 
 * Cara Tang - Co-Chair
 * David Quisenberry - Co-Chair
 * Sam Lim
+* Terry Tower
+* Radana Dvorak
 
 ### Opportunities
 If you are interested in being a mentor or mentee, developing resources, or serving on this committee email [mentorship@pdxowasp.org](mailto://mentorship@pdxowasp.org).
