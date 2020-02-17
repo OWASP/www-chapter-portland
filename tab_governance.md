@@ -15,8 +15,8 @@ Here you will find documents related to the governance of our chapter.
 
 | Month | Agenda | Minutes |
 | ----- | ------ | ------- |
-| January | | |
-| February | | |
+| January | [Agenda](https://github.com/OWASP/www-chapter-portland/blob/master/governance-files/agenda-jan-2020.md) | [Minutes](https://github.com/OWASP/www-chapter-portland/blob/master/governance-files/minutes-jan-2020.md) |
+| February | [Agenda](https://github.com/OWASP/www-chapter-portland/blob/master/governance-files/agenda-feb-2020.md) | [Minutes](https://github.com/OWASP/www-chapter-portland/blob/master/governance-files/minutes-feb-2020.md) |
 | March | | |
 | April | | |
 | May | | |
