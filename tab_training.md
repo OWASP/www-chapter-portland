@@ -42,7 +42,7 @@ Later in the evening, a social mixer will also be held at Rock Bottom Restaurant
 Portland, OR 97204
 ```
 ### Schedule
-| Time               | Activity                                                           |            |            |            |            |
+| Time               | Activity                                                           | Activity           | Activity           | Activity           | Activity           |
 |--------------------|--------------------------------------------------------------------|------------|------------|------------|------------|
 | 8:00 AM - 8:30 AM  | Morning Registration and Continental Breakfast                     |            |            |            |            |
 | 8:30 AM - 12:00 PM | Course TBD                                                         | Course TBD | Course TBD | Course TBD | Course TBD |
