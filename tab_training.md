@@ -42,14 +42,15 @@ Later in the evening, a social mixer will also be held at Rock Bottom Restaurant
 Portland, OR 97204
 ```
 ### Schedule
-| Time               | Activity                                                           | Activity           | Activity           | Activity           | Activity           |
-|--------------------|--------------------------------------------------------------------|------------|------------|------------|------------|
-| 8:00 AM - 8:30 AM  | Morning Registration and Continental Breakfast                     |            |            |            |            |
-| 8:30 AM - 12:00 PM | Course TBD                                                         | Course TBD | Course TBD | Course TBD | Course TBD |
-| 12:00 PM - 1:30 PM | Lunch on your own - Meet a new friend and grab a bite!             |            |            |            |            |
-| 1:00 PM - 1:30 PM  | Afternoon Registration (for those attending only in the afternoon) |            |            |            |            |
-| 1:30 PM - 5:00 PM  | Course TBD                                                         | Course TBD | Course TBD | Course TBD | Course TBD |
-| 5:00 PM - 7:30 PM  | Evening Mixer @ Rock Bottom Restaurant and Brewery                 |            |            |            |            |
+
+| Time | Activity | | | | |
+|------|----------|-|-|-|-|
+| 8:00 AM - 8:30 AM  | Morning Registration and Continental Breakfast | | | | |
+| 8:30 AM - 12:00 PM | Course TBD | Course TBD | Course TBD | Course TBD | Course TBD |
+| 12:00 PM - 1:30 PM | Lunch on your own - Meet a new friend and grab a bite! | | | | |
+| 1:00 PM - 1:30 PM  | Afternoon Registration (for those attending only in the afternoon) | | | | |
+| 1:30 PM - 5:00 PM  | Course TBD | Course TBD | Course TBD | Course TBD | Course TBD |
+| 5:00 PM - 7:30 PM  | Evening Mixer @ Somewhere awesome | | | | |
 
 ### Lunch Ideas
 Here are some lunch ideas:
