@@ -23,6 +23,7 @@ TBD
 TBD
 
 ## 2020 Sponsors
+### Mixer Raffle MC Sponsors
 ### Mixer Sponsors
 ### Training Session Sponsors
 ### Morning Coffee Sponsors
@@ -36,11 +37,8 @@ World Trade Center Portland
 121 SW Salmon St.
 Portland, OR 97204
 ```
-Later in the evening, a social mixer will also be held at Rock Bottom Restaurant & Brewery, just a short walk away:
-```
-206 SW Morrison St
-Portland, OR 97204
-```
+Later in the evening, a social mixer will also be held at: TBD
+
 ### Schedule
 
 | Time | Activity | | | | |
@@ -58,7 +56,6 @@ Here are some lunch ideas:
 * The Good Earth Cafe, 1136 SW 3rd Ave.
 * Chipotle Mexican Grill, 240 SW Yamhill St.
 * Luc Lac Vietnamese Kitchen, 835 SW 2nd Ave.
-* Rock Bottom Restaurant & Brewery, 206 SW Morrison St.
 * Buffalo Wild Wings, 327 SW Morrison St.
 * Cafe Yumm, 301 SW Morrison St.
 * Killer Burger, 510 SW 3rd Ave.
