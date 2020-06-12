@@ -15,10 +15,10 @@
 * Katie Feucht
 
 #### Membership and Outreach Chair
-* John Whiteman
+* John L. Whiteman
 
 #### Study Night Chair
-* Allison Naaktgeboren
+* Sam Lemly, Allison Naaktgeboren
 
 #### Treasurer
 * Benny Zhao
