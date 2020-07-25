@@ -11,8 +11,16 @@ tags: mentorship
 
 All of our podcasts can be found [here](https://www.buzzsprout.com/775379):
 
-Contact us if you have someone in mind for a podcast.
+Contact us if you know someone who would be a great podcast guests:
 
+
+* [Eva Galperin - Director of Cybersecurity at the Electronic Frontier Foundation (EFF) - Go Look Where No One Else is Looking](https://www.buzzsprout.com/775379/4678886-eva-galperin-director-of-cybersecurity-at-the-electronic-frontier-foundation-eff-go-look-where-no-one-else-is-looking)
+
+* [Glenn Bravy and Merritt Wilson - Secure Code Warrior - Are Some Languages More Dangerous Than Others?](https://www.buzzsprout.com/775379/4575845-glenn-bravy-and-merritt-wilson-secure-code-warrior-are-some-languages-more-dangerous-than-others)
+
+* [Jake King - Linux Cloud and Endpoint Security - Do It Wisely. Make it Easy](https://www.buzzsprout.com/775379/4497116-jake-king-linux-cloud-and-endpoint-security-do-it-wisely-make-it-easy)
+
+* [Eric Higgins - Security From Zero: Practical Security for Busy People](https://www.buzzsprout.com/775379/4325000-eric-higgins-security-from-zero-practical-security-for-busy-people)
 
 * [Mike Goodwin and Jon Gadsden - Threat Dragon is for Threat Modeling. Come Help Build It!](https://www.buzzsprout.com/775379/4070918-mike-goodwin-and-jon-gadsden-threat-dragon-is-for-threat-modeling-come-help-build-it)
 

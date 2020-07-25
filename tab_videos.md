@@ -12,7 +12,9 @@ tags: mentorship
 All of our videos can be found on our OWASP PDX YouTube channel [here](https://www.youtube.com/channel/UCYDkARIRTaeiP-o19tSWZfw):
 
 
-* [Clint Gibler - Detect Complex Code Patterns Using Semantic Grep (OWASP Portland, Oregon)](https://www.youtube.com/watch?v=nllx_3RUK9w&t=466s)
+* [Sam Lemly - Secure Code Warrior Tournament Overview](OWASP Portland, Oregon)](https://www.youtube.com/watch?v=P0s9lmD02rQ)
+
+* [Clint Gibler - Detect Complex Code Patterns Using Semantic Grep (OWASP Portland, Oregon)](https://www.youtube.com/watch?v=nllx_3RUK9w)
 
 * [Brian Ventura - Crypto 101 (OWASP Portland, Oregon)](https://www.youtube.com/watch?v=GP3Cw8VW2gE)
 
