@@ -15,7 +15,7 @@
 * Katie Feucht
 
 #### Membership and Outreach Chair
-* John L. Whiteman
+* [John L. Whiteman](mailto://john.whiteman@owasp.org)
 
 #### Study Night Chair
 * Sam Lemly, Allison Naaktgeboren
