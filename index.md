@@ -5,6 +5,9 @@ title: OWASP Portland
 tags: community, mentorship, governance, study, training, meetings, videos, podcasts, committees, sponsors
 level: 0
 region: North America
+meetup-group: OWASP-Portland-Chapter
+country: USA
+postal-code: 97201
 
 ---
 
