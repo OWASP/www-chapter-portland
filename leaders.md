@@ -20,5 +20,8 @@
 #### Study Night Chair
 * Sam Lemly, Allison Naaktgeboren
 
+#### Mentorship Chair
+* Terry Tower
+
 #### Treasurer
 * Benny Zhao
