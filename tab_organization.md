@@ -72,10 +72,10 @@ If you are interested in practicing a talk, leading a hands on small group train
 The Mentorship committee helps match mentor and mentee pairs, recruit people to utilize our mentorship program, develop resources for learning, and check in with mentorship pairs.
 
 ### Members
-* Cara Tang - Co-Chair
-* David Quisenberry - Co-Chair
+* Terry Tower - Chair
+* Cara Tang
+* David Quisenberry
 * Sam Lim
-* Terry Tower
 * Radana Dvorak
 
 ### Opportunities
