@@ -3,10 +3,10 @@
 ### Leaders
 
 #### President
-* [David Quisenberry](mailto://david.quisenberry@owasp.org)
+* [David Quisenberry](mailto:david.quisenberry@owasp.org)
 
 #### Past President
-* [Ian Melvin](mailto://ian.melvin@owasp.org)
+* Ian Melvin
 
 #### Chapter Meeting Chair
 * Kendra Ash
@@ -15,7 +15,7 @@
 * Katie Feucht
 
 #### Membership and Outreach Chair
-* [John L. Whiteman](mailto://john.whiteman@owasp.org)
+* [John L. Whiteman](mailto:john.whiteman@owasp.org)
 
 #### Study Night Chair
 * Sam Lemly, Allison Naaktgeboren
