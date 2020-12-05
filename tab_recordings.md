@@ -13,6 +13,21 @@ All of our podcasts can be found [here](https://www.buzzsprout.com/775379):
 
 Contact us if you know someone who would be a great podcast guests:
 
+* [Caroline Wong - What a Top Chief Strategy Officer Has to Say About Security These Days](https://www.buzzsprout.com/775379/5937226-caroline-wong-what-a-top-chief-strategy-officer-has-to-say-about-security-these-days)
+
+* [Jim Manico - "Kūlia I Ka Nu'u" to Be Your Best in Security](https://www.buzzsprout.com/775379/5820922-jim-manico-kulia-i-ka-nu-u-to-be-your-best-in-security)
+
+* [Bruce Schneier - We Live in a Security and Privacy World That Science Fiction Didn't Predict](https://www.buzzsprout.com/775379/5727604-bruce-schneier-we-live-in-a-security-and-privacy-world-that-science-fiction-didn-t-predict)
+
+* [STÖK - What It Takes to Be a Good Hacker](https://www.buzzsprout.com/775379/5386558-stok-what-it-takes-to-be-a-good-hacker)
+
+* [Terry Dunlap - IoT Security Starts with Getting Rid of Your IoT Devices](https://www.buzzsprout.com/775379/5313439-terry-dunlap-iot-security-starts-with-getting-rid-of-your-iot-devices)
+
+* [Dr. Linus Karlsson - The Art of Managing Open So](https://www.buzzsprout.com/775379/5186257-dr-linus-karlsson-the-art-of-managing-open-source-vulnerabilities-is-good-science-too)
+
+* [Terry Tower - Drones Be Hacked](https://www.buzzsprout.com/775379/5098309-terry-tower-drones-be-hacked)
+
+* [Andrew van der Stock - OWASP Executive Director - Our Software is the Firewall](https://www.buzzsprout.com/775379/4906181-andrew-van-der-stock-owasp-executive-director-our-software-is-the-firewall)
 
 * [Simon Bennetts and Rick Mitchell - The Great Proxy Wars - ZAP vs. Burp Suite](https://www.buzzsprout.com/775379/4738439-simon-bennetts-and-rick-mitchell-the-great-proxy-wars-zap-vs-burp-suite)
 
