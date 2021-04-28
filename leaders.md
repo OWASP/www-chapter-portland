@@ -8,3 +8,4 @@
 * [Brian Myers](mailto:brian.myers@owasp.org)
 * [Derek Hill](mailto:derek.hill@owasp.org)
 * [Allison Naaktgeboren](mailto:allison.naaktgeboren@owasp.org)
+* [Samuel Lemly](samuel.lemly@owasp.org)
