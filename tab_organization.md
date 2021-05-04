@@ -9,6 +9,18 @@ tags: committees
 
 # Our Committees
 
+## Chapter Leadership
+* [David Quisenberry](mailto:david.quisenberry@owasp.org) - Chapter President
+* [Benny Zhao](mailto:benny.zhao@owasp.org) - Treasurer
+* Kendra Ash - Chapter Meeting Committee Chair
+* [John L. Whiteman](mailto:john.whiteman@owasp.org) - Membership & Community Outreach Committee Chair
+* [Katie Feucht](mailto:katie.feucht@owasp.org) - Training Day Committee Chair
+* [Allison Naaktgeboren](mailto:allison.naaktgeboren@owasp.org) - Study Night Committee Co-Chair
+* [Samuel Lemly](mailto:samuel.lemly@owasp.org) - Study Night Committee Co-Chair
+* Terry Tower - Mentorship Committee Chair
+* [Brian Myers](mailto:brian.myers@owasp.org)
+* [Derek Hill](mailto:derek.hill@owasp.org)
+
 ## Chapter Meetings
 
 ### Purpose
