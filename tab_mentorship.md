@@ -15,7 +15,7 @@ We're in the business of helping people grow. Whether you are a beginner, and ex
 
 ## How to Get Involved
 
-If you are interested in joining our next mentorship class (starting Jan 2020), please fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSc7cnvQymc_C662RBSagP-MwFmDwN6P6-uL_24Mqh559JHbsg/viewform).
+If you are interested in joining our next mentorship class (starting Jan 2020), please contact one of our leaders in our chapter via email.
 
 ## Resources to Help
 
