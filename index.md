@@ -18,7 +18,7 @@ This is the website of the Portland, Oregon OWASP Chapter.
 We a chapter dedicated to the application security and information security of the Pacific Northwest.  Above are tabs to various elements of our chapter activity.  We host monthly study nights and chapter meetings, have a vibrant podcast highlighting our speakers, trainers, and people of influence in application security, an annual training day, and an ongoing mentorship program.
 
 ## Next Meeting/Event(s)
----------------------
+
 {% include chapter_events.html group=page.meetup-group %}
 
 [AppSecPNW Conference](https://www.appsecpnw.org/) - June 10, 2023
