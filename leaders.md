@@ -1,6 +1,7 @@
 ### Leaders
 
-* [David Quisenberry](mailto:david.quisenberry@owasp.org)
+* Kendra Ash
+* [Brian Myers](mailto:brian.myers@owasp.org)
 * [Benny Zhao](mailto:benny.zhao@owasp.org)
-* [Katie Feucht](mailto:katie.feucht@owasp.org)
-* [John L. Whiteman](mailto:john.whiteman@owasp.org)
+* Terry Tower
+* [David Quisenberry](mailto:david.quisenberry@owasp.org)
