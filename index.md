@@ -21,7 +21,7 @@ We a chapter dedicated to the application security and information security of t
 
 {% include chapter_events.html group=page.meetup-group %}
 
-[AppSecPNW Conference](https://www.appsecpnw.org/) - June 10, 2023
+<!--- [AppSecPNW Conference](https://www.appsecpnw.org/) - June 10, 2023 --->
 
 ## Get Involved
 If you are interested in being more involved in our chapter there are links in our sidebar to our meetup, twitter, and linkedin resources.
