@@ -15,7 +15,7 @@ tags: committees
 * [Benny Zhao](mailto:benny.zhao@owasp.org) - Treasurer
 * Terry Tower - Mentorship Committee Chair
 * Chelsea Willis - Chapter Meeting Committee Chair
-* [Samuel Lemly](mailto:samuel.lemly@owasp.org) - Study Night Committee Co-Chair
+<!--- * [Samuel Lemly](mailto:samuel.lemly@owasp.org) - Study Night Committee Chair --->
 * [Derek Hill](mailto:derek.hill@owasp.org)
 * [David Quisenberry](mailto:david.quisenberry@owasp.org)
 
