@@ -15,9 +15,9 @@ tags: committees
 * [Benny Zhao](mailto:benny.zhao@owasp.org) - Treasurer
 * Terry Tower - Mentorship Committee Chair
 * Chelsea Willis - Chapter Meeting Committee Chair
-<!--- * [Samuel Lemly](mailto:samuel.lemly@owasp.org) - Study Night Committee Chair --->
 * [Derek Hill](mailto:derek.hill@owasp.org)
 * [David Quisenberry](mailto:david.quisenberry@owasp.org)
+<!--- * [Samuel Lemly](mailto:samuel.lemly@owasp.org) - Study Night Committee Chair --->
 
 ## Chapter Meetings
 
@@ -68,6 +68,7 @@ The Mentorship committee helps match mentor and mentee pairs, recruit people to 
 ### Opportunities
 If you are interested in being a mentor or mentee, developing resources, or serving on this committee email [brian.myers@owasp.org](mailto://brian.myers@owasp.org).
 
+<!--- BGM: I thnk this is no longer active, right?
 ---
 
 ## Study Night
@@ -75,7 +76,6 @@ If you are interested in being a mentor or mentee, developing resources, or serv
 ### Purpose
 The Study Night committee coordinates speakers/trainers/activities for our monthly study night.
 
-<!--- BGM: I thnk this is no longer active, right?
 ### Members
 * [Samuel Lemly](mailto:samuel.lemly@owasp.org) - Co-Chair
 
