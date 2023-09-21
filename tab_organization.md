@@ -16,20 +16,19 @@ tags: committees
 * Terry Tower - Mentorship Committee Chair
 * Chelsea Willis - Chapter Meeting Committee Chair
 * [Samuel Lemly](mailto:samuel.lemly@owasp.org) - Study Night Committee Co-Chair
-* [Allison Naaktgeboren](mailto:allison.naaktgeboren@owasp.org) - Study Night Committee Co-Chair
 * [Derek Hill](mailto:derek.hill@owasp.org)
 * [David Quisenberry](mailto:david.quisenberry@owasp.org)
 
 ## Chapter Meetings
 
 ### Purpose
-Our Chapter Meeting committee is responsible for cultivating venues and speakers for our monthly chapter meeting.
+Our Chapter Meeting Committee is responsible for cultivating venues and speakers for our monthly chapter meeting.
 
 ### Members
 * Chelsea Willis - Chair
 
 ### Opportunities
-If you are interested in speaking at a chapter meeting, having your company host one of our meetings, or helping out with this committee please email [david.quisenberry@owasp.org](mailto://david.quisenberry@owasp.org).
+If you are interested in speaking at a chapter meeting, having your company host one of our meetings, or helping out with this committee please email [brian.myers@owasp.org](mailto://brian.myers@owasp.org).
 
 ---
 
@@ -65,7 +64,7 @@ The Mentorship committee helps match mentor and mentee pairs, recruit people to 
 * Terry Tower - Chair
 
 ### Opportunities
-If you are interested in being a mentor or mentee, developing resources, or serving on this committee email [david.quisenberry@owasp.org](mailto://david.quisenberry@owasp.org).
+If you are interested in being a mentor or mentee, developing resources, or serving on this committee email [brian.myers@owasp.org](mailto://brian.myers@owasp.org).
 
 ---
 
@@ -74,9 +73,10 @@ If you are interested in being a mentor or mentee, developing resources, or serv
 ### Purpose
 The Study Night committee coordinates speakers/trainers/activities for our monthly study night.
 
+<!--- BGM: I thnk this is no longer active, right?
 ### Members
-* [Allison Naaktgeboren](mailto:allison.naaktgeboren@owasp.org) - Co-Chair
 * [Samuel Lemly](mailto:samuel.lemly@owasp.org) - Co-Chair
 
 ### Opportunities
 If you are interested in practicing a talk, leading a hands on small group training, or serving on this committee email [david.quisenberry@owasp.org](mailto://david.quisenberry@owasp.org).
+--->
