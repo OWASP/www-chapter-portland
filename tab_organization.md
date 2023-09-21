@@ -17,6 +17,7 @@ tags: committees
 * Chelsea Willis - Chapter Meeting Committee Chair
 * [Derek Hill](mailto:derek.hill@owasp.org)
 * [David Quisenberry](mailto:david.quisenberry@owasp.org)
+* [Jason Leonhard](mailto:leonhard.jason@gmail.com)
 <!--- * [Samuel Lemly](mailto:samuel.lemly@owasp.org) - Study Night Committee Chair --->
 
 ## Chapter Meetings
