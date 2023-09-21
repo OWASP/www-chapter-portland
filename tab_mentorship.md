@@ -11,7 +11,7 @@ tags: mentorship
 
 ## What It Is
 
-We're in the business of helping people grow. Whether you are a beginner, and expert, or somewhere in between, we want to help you develop as a professional. Our mentorship program runs for 6 months. We work to pair you with someone who has experience or is interest in the same area you are looking to mentor or be mentored. It's about relationships, hands on keyboards, questions, advice. A lot of the program is what you make out of the relationship we seed you with. 
+We're in the business of helping people grow. Whether you are a beginner, and expert, or somewhere in between, we want to help you develop as a professional. We work to pair you with someone who has experience or is interest in the same area you are looking to mentor or be mentored. It's about relationships, hands on keyboards, questions, advice. A lot of the program is what you make out of the relationship we seed you with. 
 
 ## How to Get Involved
 
