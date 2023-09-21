@@ -43,6 +43,7 @@ Our AppSecPNW Conference committee is responsible for the planning of the AppSec
 ### Opportunities
 If you are interested in speaking at the conference, know a company who wants to sponsor, or helping out with this committee please email [brian.myers@owasp.org](mailto:brian.myers@owasp.org).
 
+<!--- BGM I don't think we currently have an outreach committee
 ---
 
 ## Membership and Community Outreach
@@ -52,6 +53,7 @@ Membership and Community Outreach promotes our events, learns how we can be a be
 
 ### Opportunities
 If you are interested in reaching out to our members and community please email [david.quisenberry@owasp.org](mailto://david.quisenberry@owasp.org).
+--->
 
 ---
 
