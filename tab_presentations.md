@@ -9,6 +9,8 @@ tags: mentorship
 
 # Presentations
 
+* [So You Want a Career in Security? - Derek Hill - September 2023](https://github.com/OWASP/www-chapter-portland/blob/master/presentations/DerekHill_Presentation-Careers%20in%20Security-2023.pdf)
+
 * [10 Things I Want to Show You about Wireshark, Kevan Vanhoff - April 2020](https://github.com/OWASP/www-chapter-portland/blob/master/presentations/JohnLWhiteman-SoYouWantToTeachSecurity.pdf)
 
 * [So You Want to Teach Security? Bully for You!, John L. Whiteman - Dec 2019](https://github.com/OWASP/www-chapter-portland/blob/master/presentations/JohnLWhiteman-SoYouWantToTeachSecurity.pdf)
