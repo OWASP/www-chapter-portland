@@ -1,10 +1,10 @@
 ---
-title: Participating
-displaytext: Participating
+title: Participation
+displaytext: Participation
 layout: null
 tab: true
 order: 6
-tags: participating
+tags: participation
 ---
 
 # Participating
