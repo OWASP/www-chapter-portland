@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Portland
-tags: community, mentorship, governance, study, training, meetings, videos, podcasts, committees, sponsors
+tags: community, mentorship, governance, study, training, meetings, videos, podcasts, committees, sponsors, participation
 level: 0
 region: North America
 meetup-group: OWASP-Portland-Chapter
