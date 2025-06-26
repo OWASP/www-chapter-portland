@@ -11,40 +11,42 @@ tags: committees
 
 ## Chapter Leadership
 * Kendra Ash - Chapter President
-* [Brian Myers](mailto:brian.myers@owasp.org) - AppSecPNW Chair
 * [Benny Zhao](mailto:benny.zhao@owasp.org) - Treasurer
 * Terry Tower - Mentorship Committee Chair
-* Chelsea Willis - Chapter Meeting Committee Chair
 * [Derek Hill](mailto:derek.hill@owasp.org)
 * [David Quisenberry](mailto:david.quisenberry@owasp.org)
-* Jason Leonhard
-<!--- * [Samuel Lemly](mailto:samuel.lemly@owasp.org) - Study Night Committee Chair --->
 
 ## Chapter Meetings
 
 ### Purpose
 Our Chapter Meeting Committee is responsible for cultivating venues and speakers for our monthly chapter meeting.
 
+<!-- This committee currently has no members 
 ### Members
-* Chelsea Willis - Chair
+* 
+-->
 
+<!-- We have no contact person here
 ### Opportunities
-If you are interested in speaking at a chapter meeting, having your company host one of our meetings, or helping out with this committee please email [brian.myers@owasp.org](mailto://brian.myers@owasp.org).
-
+If you are interested in speaking at a chapter meeting, having your company host one of our meetings, or helping out with this committee please email [email](mailto://email).
+-->
 ---
 
+<!-- Has anyone signed up to do this for 2026?
 ## AppSecPNW Conference
 
 ### Purpose
 Our AppSecPNW Conference committee is responsible for the planning of the AppSecPNW Conference.
 
 ### Members
-* Brian Myers - Chair
+* 
 
 ### Opportunities
-If you are interested in speaking at the conference, know a company who wants to sponsor, or helping out with this committee please email [brian.myers@owasp.org](mailto:brian.myers@owasp.org).
+If you are interested in speaking at the conference, know a company who wants to sponsor, or helping out with this committee please email [email](mailto:email).
+-->
 
-<!--- BGM I don't think we currently have an outreach committee
+
+<!---  We don't currently have an outreach committee
 ---
 
 ## Membership and Community Outreach
@@ -53,7 +55,7 @@ If you are interested in speaking at the conference, know a company who wants to
 Membership and Community Outreach promotes our events, learns how we can be a better chapter for our membership and local companies, universities/colleges, and like-minded organizations. 
 
 ### Opportunities
-If you are interested in reaching out to our members and community please email [david.quisenberry@owasp.org](mailto://david.quisenberry@owasp.org).
+If you are interested in reaching out to our members and community please email [david.quisenberry@owasp.org](mailto://email).
 --->
 
 ---
@@ -66,20 +68,7 @@ The Mentorship committee helps match mentor and mentee pairs, recruit people to 
 ### Members
 * Terry Tower - Chair
 
+<!-- We don't currently have a public contact point
 ### Opportunities
-If you are interested in being a mentor or mentee, developing resources, or serving on this committee email [brian.myers@owasp.org](mailto://brian.myers@owasp.org).
-
-<!--- BGM: I thnk this is no longer active, right?
----
-
-## Study Night
-
-### Purpose
-The Study Night committee coordinates speakers/trainers/activities for our monthly study night.
-
-### Members
-* [Samuel Lemly](mailto:samuel.lemly@owasp.org) - Co-Chair
-
-### Opportunities
-If you are interested in practicing a talk, leading a hands on small group training, or serving on this committee email [david.quisenberry@owasp.org](mailto://david.quisenberry@owasp.org).
---->
+If you are interested in being a mentor or mentee, developing resources, or serving on this committee email [email](mailto://email).
+-->
