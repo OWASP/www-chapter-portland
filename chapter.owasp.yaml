@@ -1,0 +1,33 @@
+leaders:
+  - name: Kendra Ash
+    email: kendra.ash@owasp.org
+  - name: Benny Zhao
+    email: benny.zhao@owasp.org
+    github: ben-zhao
+location:
+  country: United States
+  country_code: US
+  region: Oregon
+  city: Portland
+  postal_code: '97201'
+  latitude: 45.496464399999994
+  longitude: -122.68287917483792
+meetup_group: OWASP-Portland-Chapter
+name: OWASP Portland
+repositories:
+  - name: www-chapter-portland
+    url: https://github.com/OWASP/www-chapter-portland
+    description: OWASP Foundation Web Repository
+tags:
+  - community
+  - mentorship
+  - governance
+  - study
+  - training
+  - meetings
+  - videos
+  - podcasts
+  - committees
+  - sponsors
+  - participation
+website: https://owasp.org/www-chapter-portland
